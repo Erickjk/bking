@@ -333,6 +333,10 @@ footer .textdeco {
         background-size: 660px;
         background-position: top right;
     }
+    
+    article.article {
+        padding:0px;
+    }
 
 }
 
