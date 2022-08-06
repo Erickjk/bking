@@ -14,7 +14,7 @@
 
 #autor a{
     color: red
-        animation: cor 9s infinite linear;
+    animation: cor 9s infinite linear;
 }
 
 @keyframes fundo{
@@ -23,7 +23,7 @@
     
 }
 @keyframes cor{
-0%{color: black;}
+    0%{color: black;}
     75%{color:red;}
 }
 
