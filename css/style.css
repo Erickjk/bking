@@ -9,9 +9,23 @@
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 5px;
+    animation: fundo 9s infinite linear;
 }
 
+#autor a{
+    color: red
+        animation: cor 9s infinite linear;
+}
 
+@keyframes fundo{
+    0%{background:red;}
+    75%{background:black;}
+    
+}
+@keyframes cor{
+0%{color: black;}
+    75%{color:red;}
+}
 
 ul {
     list-style: none;
