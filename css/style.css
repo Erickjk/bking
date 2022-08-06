@@ -4,20 +4,11 @@
 }
 
 
-#autor{
-    color:black;
-    text-align:center;
-    
-    padding:10px;
-    background-color: red;
-  animation-name: example;
-  animation-duration: 4s;
 
-}
-
-@keyframe autor1{
-    background-image: linear-gradient(to right, red , black);
-    color:linear-gradient(to left, red , black);
+#autor {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
 }
 
 
