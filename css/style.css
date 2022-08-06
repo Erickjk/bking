@@ -7,9 +7,18 @@
 #autor{
     color:red;
     text-align:center;
-    background-color:black;
+    
     padding:10px;
+    background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+
 }
+
+@keyframe autor1{
+    background-image: linear-gradient(to right, red , black);
+}
+
 
 
 ul {
